@@ -8,6 +8,6 @@ A minimalist number puzzle.
 
 ---
 
-This app does not collect, store or share any personal data.
+[Datenschutzerklärung](privacy)
 
 © Philipp Kaiser

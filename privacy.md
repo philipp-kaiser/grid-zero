@@ -1,7 +1,3 @@
----
-Privacy Policy
----
-
 # Privacy Policy
 
 ## 1. General Information

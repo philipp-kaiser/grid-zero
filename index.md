@@ -1,13 +1,19 @@
-# Grid Zero - A Number Puzzle
+# Grid Zero – A Number Puzzle
 
-A minimalist number puzzle.
+A minimalist number puzzle focused on logic, clarity, and challenge.
 
-- [App Store](https://google.de)
-- [Google Play](https://google.de)
-- [Buy me a coffee](https://ko-fi.com/philippkaiser)
+## Download
+- 🤖 [Google Play](https://google.de)
+
+## Support the Developer
+- ☕ [Buy me a coffee](https://ko-fi.com/philippkaiser)
 
 ---
 
-[Datenschutzerklärung](privacy)
+## Legal
+- [Privacy Policy](privacy)
+- [Imprint](imprint)
+
+---
 
 © Philipp Kaiser

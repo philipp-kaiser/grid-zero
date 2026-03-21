@@ -1,8 +1,8 @@
 # Grid Zero – A Number Puzzle
 
-A minimalist number puzzle focused on logic, clarity, and challenge.
-
 ![Grid Zero](./images/add.png)
+
+A minimalist number puzzle focused on logic, clarity, and challenge.
 
 ## Download
 - 🤖 [Google Play](https://google.de)

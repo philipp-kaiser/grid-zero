@@ -2,7 +2,7 @@
 
 A minimalist number puzzle focused on logic, clarity, and challenge.
 
-![Grid Zero](images/add.png)
+![Grid Zero](./images/add.png)
 
 ## Download
 - 🤖 [Google Play](https://google.de)
